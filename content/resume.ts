@@ -58,7 +58,7 @@ export const badges = [
 /** Three numbers that prove impact. Keep them honest. */
 export const stats = [
   { value: "20", suffix: "+", label: "projects built" },
-  { value: "3", suffix: " yrs", label: "writing code" }, // TODO
+  { value: "5", suffix: " yrs", label: "writing code" }, // TODO
   { value: "1.2K", suffix: "", label: "users served" }, // TODO
 ];
 
